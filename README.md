@@ -1,0 +1,2 @@
+# Evolutionary-Algorithm-Within-Rocket-Simulation
+This repo holds the contents of my final project, which was developing an evolutionary algorithm to train rockets to improve on navigation in different gravitational environments over generations. Included here is the python code, final Latex report, posterboard used for my presentation, and data collected during the course of my research. 
